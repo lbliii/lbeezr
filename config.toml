@@ -1,0 +1,10 @@
+baseurl = "https://example.org/"
+title = "#NOMADISH"
+author = "Lawrence Lane"
+paginate = 3
+theme = "arabica"
+
+[params]
+    description = "A personal blog"
+    dateFormatToUse = "2006-01-02"
+    replaceGoogleFonts = "fonts.loli.net"
