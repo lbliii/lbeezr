@@ -86,6 +86,6 @@ The above statement isn't 100% true. I write professional tech industry blog pos
 
 This blog post is for myself. I **hate** doing things for myself. It's so much harder. And some of you probably feel the same way. Well: I've written this for you. Here is a record of someone else publicly admitting they do not know what they are doing (and choosing to do it anyway).
 
-If you find my blog interesting, then I invite you to grow with me. I intend to share a lot of different thoughts, poems, fiction, and how-tos---not from the perspective of an expert, from the perspective of someone who's at least experienced.
+If you find my blog interesting, then I invite you to grow with me. I intend to share a lot of different thoughts, poems, growth post-mortems, fiction, and how-tos---not from the perspective of an expert, but from the perspective of someone who is _experiencing_.
 
 {{< instagram BmRrZExggDZ hidecaption >}}
