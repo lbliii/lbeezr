@@ -1,11 +1,11 @@
 ---
 author: "Lawrence Lane"
-date: 2019-03-06
+date: 2019-04-22
 linktitle: How to Become a Technical Writer Pt. 1
 next:  
 prev:
 title: How to Become a Technical Writer Pt. 1
-image: ''
+image: 'https://lh3.googleusercontent.com/BXmf1R-AxthnLyJK7YB2olEY-6a0es_MBsjmQILmvlG7cIRtYhm_mT1Qp0FjUt4h9rW-ZHbqWFRNOozTmCTSAvPtdmTqeatWPoL4a4osC3jr2EyyLCtkvGDBGBpBeYsh3f1pJHe_V5mUfDp3RvVGpm5kCXaYWfurDncVGo8IxLZaLyTSdQbou0yhxdSkEGaojA_j_vxZIlmsxmdw8Sn0lF-35XmiE9ZPyrs5iTqGhZxC8DvpeXlzTwAdEaPQQk9pNz4Gc2y4kWFAltU7d7P3dLKziNm5zd_RTkCIf-EUkmgI3vnRR8YACoZJ4ZHEoil3UF35Ft8vKh4OCzBstBL2SD4x8bvqu6ZNsQbJOoP0mB3MFVOv4sbWLEVFdhU0FCjeOyiJq1qknMboxGU1OecRUWlZRYgY59o-MFgbajFilOZt1pMkFqeZmGwXSrNPjTHEZ6T0inzrkfFvYW-FhJ3C8lOROT6x8fo7lUzwpOkX3Am1MciEVwAgPvLdcCq_T3dJ3W9n6sLHNUFOIwqpr0BhXEfSxLe5wdWbU3WkA8BaXQ18bb6Wy-lidB8uPOi2sfpmGxHEzoN0c-fiX0d2d8ZVq5e7RAFSpNRv8tnASfjXZLyHM56J0NZrEUaBWPghXMcJ6Kl0boCjFrdxfsqBblDRPr_qxHovDrATDvWkOiaNlbk59RDbqLcEYDhx0cErwO4X8wrzV_T-6ixcD5GNyemqW0_U=w703-h937-no'
 weight:
 ---
 This is a guide on how to become a technical writer (TW) in the software industry. Anyone can do it. By following this guide, I believe you could be ready to interview for a TW position within 6 months --- less, if you put in the time.
