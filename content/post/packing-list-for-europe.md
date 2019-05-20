@@ -145,8 +145,8 @@ Also, know at least these brands: Pull & Bear, H&M, Berskha, and Zara.
 
 ### Jackets
 
-- **Black or tan leather jacket** (my black jacket was from target and only $50)
-- **Tweed trenchcoats** (like a gray harringbone) look sharp and go with most outfits
+- **Black or tan leather jacket** (my black jacket was from target and only $50).
+- **Tweed trenchcoats** (like a gray harringbone) look sharp and go with most outfits.
 
 If you're in a pinch or don't want to use your precious limited luggage space for a heavy jacket, consider picking one up from somewhere like Zara. EU Zara is nicer than US Zara and you can find some amazing outer layer pieces.
 
@@ -154,7 +154,7 @@ If you're in a pinch or don't want to use your precious limited luggage space fo
 
 ### Tops
 
-- **Basic tees** can be bought for cheap in the country you're visiting when luggage space is tight
+- **Basic tees** can be bought for cheap in the country you're visiting when luggage space is tight.
 - **Pullovers** work from fall through spring as a versatile extra layer. This past season, Pull & Bear had a ton of nice options.
 
 You will stand out a bit if you wear a lot of contemporary Hawaiian style short sleeve shirts that are popular in the United States. (I love them though soo again wear what you want.)
@@ -199,9 +199,9 @@ Remember that all liquids in your carry-on must fit in a quart-sized ziplock bag
 
 Outlets are different in Europe. They're different in the UK, too. Some of your electronics may not work abroad even with a simple power adapter; in such cases you might need a full converter for things like an electric razor---I've broken one by only using a converter. Your phone and laptop _should_ have built in voltage adaptation.
 
-- **EU outlets** are circular and take rounded, [two-prong plugs](https://amzn.to/2LVBiCe)
-- **UK outlets** are [three-pronged](https://amzn.to/2Wc8YiH)
-- There are [multi-purpose adapters](https://amzn.to/2VPB7wP) available too
+- **EU outlets** are circular and take rounded, [two-prong plugs](https://amzn.to/2LVBiCe).
+- **UK outlets** are [three-pronged](https://amzn.to/2Wc8YiH).
+- There are [multi-purpose adapters](https://amzn.to/2VPB7wP) available too.
 
 I bought the multi-purpose adapter first online on amazon. It works, but I'd like to caution you that they can be finnicky. Because of the way they're built, the multi-purpose adaptor sits really loosely in the EU socket. You can shock yourself if not careful. Frustrated by my loose adapter, I kept playing with it trying to get the light to turn on so I could charge my phone and I got shocked. **It hurt pretty bad.**
 
