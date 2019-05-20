@@ -167,7 +167,7 @@ You will stand out a bit if you wear a lot of contemporary Hawaiian style short 
 
 ### Shoes
 
-- **Tan Leather boots** are _fantastic_ for traveling. They age well, are indestructible, fashionable, and can be surprisingly comfy. If you invest in the right pair they should also last you a long, long time. I have this [pair from Oliberte](https://amzn.to/2EjqZBs) and they handled _everything_ I threw at them.
+- **Tan Leather boots** are _fantastic_ for traveling. They age well, are indestructible, fashionable, and can be surprisingly comfy. If you invest in the right pair they should also last you a long, long time. I have this [pair from Oliberté](https://amzn.to/2EjqZBs) and they handled _everything_ I threw at them.
 - **White sneakers** --- let's face it, they're a staple. You can get replacements basically anywhere for about $30 and you can clean them super easily with fingernail polish remover (Acetone).
 - **Black boots** never look dirty. And the jeans + black boot look was practically invented by the UK 1960s punk fashion scene.
 
