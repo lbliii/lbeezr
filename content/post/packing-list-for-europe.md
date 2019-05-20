@@ -239,9 +239,9 @@ I have Verizon and I get charged $10/day for international phone coverage. **Thi
 
 Don't worry if you do not have the special phone key to open your SIM card tray. Whoever sells you the SIM card will have a key and they can help you. Setting up your SIM card takes less than 5 minutes. It's seriously so easy.
 
-Once set up, your phone will have **a new phone number** local to the country you are in. **any phone calls or texts sent to your original phone number will not be recieved until you return to using your original SIM card.** 
+Once set up, your phone will have **a new phone number** local to the country you are in. All phone calls and texts sent to your original phone number will not be received until you return to using your original SIM card. Make sure that people who need to be in contact with you send messages to your messenger apps (Telegram, WhatsApp, FB Messenger).
 
-The PIN that is on the SIM card is very important. Keep the card somewhere safe like in your wallet or hotel room; I kept mine within my phone case. You only get 3 tries to input the SIM card's PIN correctly upon any phone restart.
+**One more thing**: The PIN that is on the SIM card is very important. Keep the card somewhere safe like in your wallet or hotel room; I kept mine within my phone case. You only get 3 tries to input the SIM card's PIN correctly upon any phone restart.
 
 ### Apps
 
