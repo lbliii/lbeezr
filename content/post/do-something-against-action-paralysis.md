@@ -7,6 +7,7 @@ prev:
 title: Do Something
 image: "/images/do-something-against-action-paralysis/do-something-blog.png"
 weight:
+description: My first blogpost. 
 ---
 
 > "When you don't know what to do, do something."

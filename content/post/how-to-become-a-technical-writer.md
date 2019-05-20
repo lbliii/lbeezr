@@ -7,6 +7,7 @@ prev:
 title: How to Become a Technical Writer Pt. 1
 image: "/images/how-to-become-a-technical-writer/become-technical-writer-pt1.png"
 weight:
+description: Learn how to become a technical writer for startup companies and become familiar with industry-leading content tools.
 ---
 
 This is a guide on how to become a technical writer (TW) in the software industry. Anyone can do it. By following this guide, I believe you could be ready to interview for a TW position within 6 months --- less, if you put in the time.

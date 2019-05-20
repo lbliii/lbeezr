@@ -8,6 +8,7 @@ title: 2019 Packing List for Europe
 image: "/images/packing-list-for-europe/packing-list-europe.png"
 weight:
 thumbnail-image: true
+description: The ultimate checklist for traveling to Europe in 2019. Learn how to pack your carry-on, what travel adapter to buy, how to set a travel notice on your bank account, avoid exchange rate fees while traveling, and more.
 ---
 
 {{% description %}}
