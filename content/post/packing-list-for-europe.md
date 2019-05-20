@@ -226,9 +226,20 @@ Curious about **drone cameras**? I have the [DJI Spark](https://amzn.to/2VRPVuX)
 
 ### EU & UK Phone SIM cards
 
+SIM (Subscriber Identity Module) cards are tiny chips in your phone that give you an identity (like a computer's IP address). These chips track data usage and securely tether you to phone networks. You can **temporarily** swap out your SIM card while traveling to get local data rates. For Americans, it's almost always cheaper to replace your SIM card than to pay international roaming fees.
+
+Replacing your SIM card covers:
+
+- Calling
+- Texting
+- Data (images and video)
+- Social Data (3rd party social media apps)
+
 I have Verizon and I get charged $10/day for international phone coverage. **This is insane and unacceptable.** Buy a SIM card when you travel to Europe, even if it's for just a week. You can get **one month of coverage for 10-20 euros**. Most of these SIM cards include chat packages which means FB Messenger and WhatsApp have higher data limits --- even for photo messages. The SIM card will have this written on it and include social media logos.
 
 Don't worry if you do not have the special phone key to open your SIM card tray. Whoever sells you the SIM card will have a key and they can help you. Setting up your SIM card takes less than 5 minutes. It's seriously so easy.
+
+Once set up, your phone will have **a new phone number** local to the country you are in. **any phone calls or texts sent to your original phone number will not be recieved until you return to using your original SIM card.** 
 
 The PIN that is on the SIM card is very important. Keep the card somewhere safe like in your wallet or hotel room; I kept mine within my phone case. You only get 3 tries to input the SIM card's PIN correctly upon any phone restart.
 
