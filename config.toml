@@ -5,6 +5,6 @@ paginate = 3
 theme = "arabica"
 
 [params]
-    description = "A personal blog"
+    description = "A personal blog about travel, gaming, and digital nomadism"
     dateFormatToUse = "2006-01-02"
     replaceGoogleFonts = "fonts.loli.net"

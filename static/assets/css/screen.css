@@ -268,12 +268,12 @@ dl dd {
 
 .nav a {
 	margin: 0 0.5rem;
-	color: #9EABB3;
+	color: #8FBC8F;
 	text-decoration: none;
 }
 
 .nav a:hover {
-	color: #8FBC8F	;
+	color: #9EABB3	;
 }
 
 a.nav-current {
