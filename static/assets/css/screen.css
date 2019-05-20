@@ -359,6 +359,8 @@ a.nav-home, a.nav-blog {
 .post-meta {
 	text-transform: uppercase;
 	font-size: .79rem;
+  display: none;
+
 }
 
 .post-footer {
