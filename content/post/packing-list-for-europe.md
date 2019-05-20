@@ -7,7 +7,11 @@ prev:
 title: 2019 Packing List for Europe
 image: 'https://lh3.googleusercontent.com/cg9MRtpH0WKYbNK1XJqJbCKdwCiMotyBD73GRUjRzO_hUcUmkAK4LqtEzqSbmmijjavokelo7YPAna7Wd1YKpfF3st0P80HUUO9dKPTnIWUNPlebqYvv-OjWppgGptymN0Nm0pCnHpzHcK1xVMVv8P8heMsHhk_I2jxFzJHFYX0FN09fpe_oaZ05-KdXwsgHr9pVjcWm6hcuq0n7QDB_fo7rY2K791Kv9GmBmZCufKZux_fQGzMYMqt8aCgJVMl4190qd7m8jmV3nm1OCPpTWHgH1dWISHIQkyo7UUeOxrZEe2ccE6119Tq2AnJOQuQxEx5lWjqyFBdoXuQX2c1VMieyJ4tkfwUBuysmkOa1tEiKfxicoez3Zm1axO0EFSg6hN9xi6fdSJgkF2Uxyuokxv3h66ZcahRzrmpQ1zAK31FO31hNESWQzbqqU5LiEc4zot6FZXsTnd2sbRPEZSs57t0u-SZLv4jO2s4KIdHJPcczyVL1cCL2toI-lUZRdoPbPjko8WqYGUY4awMuyU_TgehAQX5IoX-i6t0sJUXaP9djigyJvF-arSoLGRcVOyGM5EqUBxSDSHN1YmGI24T-8K73QE95rdsN-sKnN4vL6JNATaUo3hnll4afWM5N_yssHSUmiNvumJEHPYtfg7Pb7wyhLSBy3P8=s937-no'
 weight:
+thumbnail-image: true
+description: The ultimate checklist for traveling to Europe in 2019.
 ---
+
+
 Traveling to Europe is life changing. You're going to have a wonderful time strolling through the beautiful streets, eating bread and charcuterie, soaking in the local charm, making new friends, tasting every wine. But let's get you fully prepared first. You want to make the most of this trip by stepping off the plane ready to _go_.  **This article covers everything I've learned about traveling around Europe** thus far and will cover anything new I discover in my future adventures.
 
 I've been to Europe 2 times:
