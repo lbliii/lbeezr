@@ -4,7 +4,7 @@ date: "2019-07-15"
 menu: "main"
 ---
 
-I've been creating content for 3+ years in spaces like **FinTech** ([nCino](www.ncino.com)), **Health & EduTech** ([CastleBranch](www.castlebranch.com)), and **CloudOps** ([Metricly](www.metricly.com)). 
+I've been creating content for 3+ years in spaces like **FinTech** ([nCino][www.ncino.com]), **Health & EduTech** ([CastleBranch][www.castlebranch.com]), and **CloudOps** ([Metricly][www.metricly.com]). 
 
 My goal is to help your business understand the importance and magnitude of accurate, on-message copy. In a world where software solutions are abundant, the user experience is often the most important differentiator. That includes not just design, but _all_ copy.
 
