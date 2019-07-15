@@ -6,7 +6,7 @@ menu: "main"
 
 In a world where software solutions are abundant, the user experience is often the most important differentiator. When you think of the user experience, you might picture slick graphics and a beautiful UI --- but what about copy?
 
-Written content often sorely neglected, cobbled together by disparate systems and inconsistent voices of engineers or PMs who have to throw it all together at the last minute. No one likes doing that. No one likes reading it, either.
+Written content is often sorely neglected, cobbled together by disparate systems and inconsistent voices of engineers or PMs who have to throw it all together at the last minute. No one likes doing that. No one likes reading it, either.
 
 My mission is to help businesses understand the impact of accurate, on-message content. That includes it's delivery methods, too.
 
