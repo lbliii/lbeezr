@@ -1,16 +1,20 @@
 ---
-title: "About"
-date: "2019-03-04"
+title: "Freelance"
+date: "2019-07-15"
 menu: "main"
 ---
-This blog is a collection of my thoughts on **remote work**, **traveling**, **video games**, and larger life topics. It might also become a home for new fiction pieces---should I manage to stop being lazy.
 
-My greatest life influences, in no particular order: Alan Watts, Nina Simone, James Baldwin, Joseph Conrad, Florence Welch, Karen O, Audre Lorde, Bryan Fuller's _Pushing Daisies_, and lots of Japanese Anime.  
+I've been creating content for 3+ years in spaces like **FinTech** (nCino), **Health & EduTech** (CastleBranch), and **CloudOps** (Metricly). My goal is to help your business understand the importance and magnitude of accurate, on-message copy. In a world where software solutions are abundant, the user experience is often the most important differentiator. That includes not just design, _all_ copy.
 
-## This is me:
+Things I'm good at:
 
-{{< instagram BttWmXknRVq hidecaption >}}
+- CMS research & migrations
+- User & Setup Guides
+- Technical documentation
+- UX Copy
+- Blog & Newsletter content
+- Content Strategy (planning, brand voice & tone)
+- Internal assets (product copy guides, content templates)
+- On-page SEO optimization (Title, headers, descriptions, focus keywords)
 
-## What do you do?
-
-I am a nomad-ish technical writer working in the startup tech industry. More specifically, I work for a public cloud cost optimization platform that focuses on wrangling your AWS spend.
+If you're interested in working together, shoot me an email at **mrlawrencelane@gmail.com**.
