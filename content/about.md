@@ -13,4 +13,6 @@ My greatest life influences, in no particular order: Alan Watts, Nina Simone, Ja
 
 ## What do you do?
 
-I am a nomad-ish technical writer working in the startup tech industry. More specifically, I work for a public cloud cost optimization platform that focuses on wrangling your AWS spend.
+I am a nomad-ish technical writer working in the startup tech industry. Check out my [resume][1] page for more information.
+
+[1]: /resume
