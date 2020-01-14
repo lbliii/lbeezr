@@ -4,6 +4,9 @@ date: "2019-07-15"
 menu: "main"
 ---
 
+{{% description %}}
+ Metricly was bought by Virtana and the product referenced here is CloudWisdom.
+{{% /description %}}
 
 ### API
 
