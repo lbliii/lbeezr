@@ -1,0 +1,13 @@
+baseURL: "https://lbeezr.com"
+languageCode: "en-us"
+title: "LBEEZR"
+pygmentsstyle: 'monokai'
+paginate: 6
+social:
+  github: "https://github.com/lbliii/"
+  instagram: "https://www.instagram.com/lbeezr/"
+  linkedin: "https://www.linkedin.com/in/mrlawrencelane/"
+taxonomies:
+  author: authors
+    - Lawrence Lane
+theme: "hugo-theme-novela"
