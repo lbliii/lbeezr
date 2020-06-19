@@ -16,3 +16,6 @@ My greatest life influences, in no particular order: Alan Watts, Nina Simone, Ja
 I am a nomad-ish technical writer working in the startup tech industry. Check out my [resume][1] page for more information.
 
 [1]: /resume
+
+
+afaj;lfaf 
