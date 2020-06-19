@@ -1,11 +1,12 @@
 ---
-author: "Lawrence Lane"
+authors:
+ - Lawrence Lane
 date: 2019-04-22
 linktitle: How to Become a Technical Writer Pt. 1
 next:  
 prev:
 title: How to Become a Technical Writer Pt. 1
-image: "/images/how-to-become-a-technical-writer/become-technical-writer-pt1.png"
+hero: "/images/how-to-become-a-technical-writer/become-technical-writer-pt1.png"
 weight:
 description: Learn how to become a technical writer for startup companies and become familiar with industry-leading content tools.
 ---

@@ -1,13 +1,14 @@
 ---
-author: "Lawrence Lane"
+authors:
+ - Lawrence Lane
 date: 2019-03-05
 linktitle: Do Something
 next:  
 prev:
 title: Do Something
-image: "/images/do-something-against-action-paralysis/do-something-blog.png"
+hero: "/images/do-something-against-action-paralysis/do-something-blog.png"
 weight:
-description: My first blogpost. 
+description: My first blogpost.
 ---
 
 > "When you don't know what to do, do something."
