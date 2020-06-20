@@ -78,7 +78,7 @@ Putting forth reasonable systematic improvements and shining light on cross-depa
 - "Where can I find our playbook on..."
 - "What's our mission statement and brand identity?"
 - "Who owns this?"
-- "This request isn't in scope for this quarter's goals"
+- "This request isn't in the agreed scope for this quarter's goals, why is it considered urgent?"
 
 It's also much harder for leaders to dismiss reasonable critiques that happen in public. Making leadership explain their business decisions, especially when made in spite of expert consultation they _asked_ for, isn't rude or cruel. It's as important to them as it is to you --- after all, over 70% of startups fail.
 
