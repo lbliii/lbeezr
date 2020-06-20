@@ -18,7 +18,7 @@ The problem starts here. To many developers, dev managers, product owners, and C
 
 Think of the finished code as an airplane sitting on a tarmac. This is your shiny new product that you immediately want to ship and start making money with.
 
-- Who is going to pilot? No one knows to fly it. (**Internal Training**)
+- Who is going to pilot this thing? No one knows to fly it. (**Internal Training**)
 - What do you train the future pilots with? (**Technical Documentation & Learning**)
 - Who are your ideal buyers for this plane? why and how does it cater to their needs specifically? (**Marketing**)
 - How are your agents going to sell this plane to commercial flight businesses? (**Sales Playbook**)
