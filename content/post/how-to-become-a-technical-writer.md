@@ -81,7 +81,7 @@ Make your user take action.
 The table is saved after pressing the Save button.
 ```
 
-### Good 
+### Good
 
 ```html
 Save.
@@ -151,7 +151,7 @@ I **do not recommend** WordPress, ZenDesk Guide, or Salesforce Knowledge. In my 
 
 These solutions also bring about the _PlUgIn ApOcAlYpSe_. Plugins are a terrible solution.
 
-Why?
+> Why?
 
 They're 3rd party supported, eventually stop being updated, and cause conflicts with your platform. It's inevitable. That being said, you should know how to use them.
 
@@ -161,7 +161,7 @@ They're 3rd party supported, eventually stop being updated, and cause conflicts 
 - Text and Code Source Editors (like Atom) **+**
 - GitHub
 
-This is the solution I've moved my company to. It requires more technical knowledge to get started, but gaining those skills makes you a more valuable technical writer. Also, drafting becomes super easy and consistent thanks to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+This is the solution I've moved my clients towards. This setup is more stable, less costly, authored in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet), and highly customizable. It requires more technical knowledge to get started, but gaining those skills makes you a more valuable technical writer.
 
 ## Industry tools
 - Slack
