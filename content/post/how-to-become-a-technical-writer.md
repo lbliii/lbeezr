@@ -2,9 +2,6 @@
 authors:
  - Lawrence Lane
 date: 2019-04-22
-linktitle: How to Become a Technical Writer Pt. 1
-next:  
-prev:
 title: How to Become a Technical Writer Pt. 1
 hero: "/images/how-to-become-a-technical-writer/how-to-part-1.png"
 weight:
