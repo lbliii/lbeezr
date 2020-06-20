@@ -19,15 +19,15 @@ This is a guide on how to become a technical writer (TW) in the software industr
 
 I'm going to get these out of the way first to help you better evaluate whether being a TW makes sense for you.
 
-## Technical writer --- Does that mean you code?
+> Technical writer --- Does that mean you code?
 
 No. It certainly helps to know how to code, but you do not need it to begin a career. Some technical writers may be expected to write code in a hybrid role, but that's likely outlined in the job description.
 
-## Writing all day sounds boring. I couldn't do that.
+> Writing all day sounds boring. I couldn't do that.
 
 Perhaps. But before you write off (haha) becoming a technical writer, consider this: it's a well-paid job that's relatively low stress compared to being a developer or digital marketing specialist. There's also some great perks available in the right industry, such as: unlimited vacation, paid healthcare, stocks, and location independence.
 
-## I don't have the right degree; I'd have to go back to school.
+> I don't have the right degree; I'd have to go back to school.
 
 You do not need any particular degree to obtain the skills needed or to build a writing portfolio. In fact, the beauty of working in the tech industry is that many IT & engineering professionals are self-taught (and proudly so). It is one of the most open-minded industries when it comes to bootstrapped careers. Your hiring manager will care more about **demonstrable skills** and **experience** than your degree.
 
@@ -36,58 +36,60 @@ Take me for example. I have a BFA in Creative Writing, with a minor in English. 
 ---
 # Part One: Knowledge Building
 
-## 1. How to write technical documentation
+Your goal as a technical wrier is to become a user advocate. You accomplish this in several ways:
 
-Your goal is to be the user's advocate. You accomplish this in 4 ways:
-
-- Make documentation searchable
+- Make product documentation searchable
 - Create objective-oriented content
 - Anticipate when <cite>UX[^1]</cite> falls short of intuition
-- Minimize reader exhaustion
+- Advocate for usability and clarity during the product's build phase
 
 Everything discussed beyond this point supports our main objective in one of those ways.
 
-### Be concise
+## Be concise
 
 Never say more than you have to.
 
-#### Bad
+### Bad
 
+ ```html
  Dashboards will start populating data a few minutes after setting up an integration.
+ ```
 
-#### Good
+### Good
 
+```html
 Dashboards populate data a few minutes after integration setup.
+```
 
 Too much information can derail the user from their objective _and_ make your content hard to digest. But sometimes there's optional steps a user must be aware of. Here's what to do with those:
 
 - **Brief Optional Steps**: Include them in the series
 - **Complex Optional Steps**: Move to a dedicated sub-section
 
-Why?
+> Why?
 
 Two reasons: to promote linear, objective-driven thought **and** to create whitespace. Whitespace is essential for a user to comfortably scan and read content without getting fatigued or feeling overwhelmed. You do not want a user to open your document only to hit a wall. It needs several welcoming entry points.
 
 
-### Use active voice
+## Use active voice
 
 Make your user take action.
 
-**Bad**
+### Bad
 
 ```html
 The table is saved after pressing the Save button.
 ```
 
-**Good**
+### Good 
 
 ```html
 Save.
 ```
 
-This is demonstrative, brief, clear. It's also often the name of a button in the UI and signals to the reader to look for a **save** button.
+This is demonstrative, brief, clear. It's also often the name of a button in the <cite>UI[^8]</cite> and signals to the reader to look for a **save** button.
 
-### Style consistently
+## Style consistently
 
 - Use bulleted lists for non sequential items
 - Use numbered lists for steps in a series
@@ -101,7 +103,7 @@ This is demonstrative, brief, clear. It's also often the name of a button in the
 - Match spelling and casing when referring to UI elements.
 
 
-### Choose versatile language
+## Choose versatile language
 
 Where is your audience using this software? On a desktop, a tablet, a laptop, a phone? Well, on 50% of those devices, a user can't _click_ because there is no _mouse_.
 
@@ -113,30 +115,30 @@ Save yourself (and your team) the headache of having to revise your whole librar
 
 Apply this mindset to identify verbs and descriptors that only work for one user experience and not all.
 
-## 2. How & when to use screenshots
+# 2. How & when to use screenshots
 
 
 Many writers feel as though they must add a screenshot to every step of their documentation. I argue that isn't so. In fact, having too many screenshots  can inflate instructions that would otherwise convey the meaning immediately.
 
 For example, is there only one button named **submit** on the <cite>modal[^3]</cite>? Is it well placed and intuitive to standard form submissions?  If so, you probably don't need that screenshot.
 
-### Use screenshots when
+## Use screenshots when
 
 - There is a new procedure that is unique or unfamiliar to the user
 - There is a complex idea present that is difficult to convey otherwise
 
 Screenshots are also a pain to maintain as your content ages. Features are updated all the time. UI styles change. Whole <cite>navigation panes[^2]</cite> are moved from top to left.
 
-### How to take a screenshot
+## How to take a screenshot
 
-- Standardize width; I tend to use full-width screenshots so no measuring or resizing is needed. It's distracting for a user to see varying image sizes when scrolling through a page.
-- Minimize multi-navigation overlay. Although sometimes unavoidable, doing this when possible maximizes the enduring relevance of your screenshot. Don't create more work for yourself later.
+- **Standardize width**; I tend to use full-width screenshots so no measuring or resizing is needed. It's distracting for a user to see varying image sizes when scrolling through a page.
+- **Minimize multi-navigation overlay**. Although sometimes unavoidable, doing this when possible maximizes the enduring relevance of your screenshot. Don't create more work for yourself later.
 
-## 3. Know commonly used tools
+# 3. Know commonly used tools
 
 There are a _ton_ of tools out there. Every business uses a different combination. You do not need to know them all. Start with those mentioned here first and then branch out to tools you see mentioned in job descriptions.
 
-### GUI writing tools
+## GUI writing tools
 
 - Confluence
 - WordPress
@@ -153,7 +155,7 @@ Why?
 
 They're 3rd party supported, eventually stop being updated, and cause conflicts with your platform. It's inevitable. That being said, you should know how to use them.
 
-### Combo solutions
+## Combo solutions
 
 - Static Site Generators (like Hugo) **+**
 - Text and Code Source Editors (like Atom) **+**
@@ -161,7 +163,7 @@ They're 3rd party supported, eventually stop being updated, and cause conflicts 
 
 This is the solution I've moved my company to. It requires more technical knowledge to get started, but gaining those skills makes you a more valuable technical writer. Also, drafting becomes super easy and consistent thanks to [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
 
-### Industry tools
+## Industry tools
 - Slack
 - Github
 - JIRA
@@ -170,7 +172,7 @@ This is the solution I've moved my company to. It requires more technical knowle
 
 You'll see how these tools apply in the next section.
 
-## 4. Understand your peers & the workflow
+# 4. Understand your peers & the workflow
 
 Technical writers are not developers. They should, however, understand developers. We work together toward the same goal. Here's the high-level:
 
@@ -180,7 +182,7 @@ Your work as a writer comes from the additions and changes made to these reposit
 
 
 
-### Example ticket
+## Example ticket
 
 ```html
 Ticket ID: ACME-11234
@@ -197,3 +199,4 @@ You are tasked with updating the documentation for X Report. It's likely this ch
 [^3]: **Modal**: a pop-up window within a product that needs user input to be submitted.
 [^4]: **Repository**: a library of code; one application can rely on several repositories to create one product.
 [^5]: **UAT**: User Acceptance Testing; the stage to catch bugs and errors before pushing new features or changes to production.
+[^8]: **UI**: User Interface; the visual components a person may interact with on a device (buttons, text, graphics).
