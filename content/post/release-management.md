@@ -56,7 +56,7 @@ Startups tend to live and die by these mottos:
 
 This outlook works in the beginning --- in fact, it's usually the only way to start most endeavors. But this wild-west execution strategy does not scale. The original team that launched the startup is used to ultimate power, without restraint, and little-to-no consequences for iterative failure. This is the team that wants to stick around and reap the IPO rewards, level up their career to departmental leadership, and reminisce about when you were all just selling vaporware.
 
-This group tends to be your _biggest_ blocker in evolving internal processes. Although they quickly identify the need for domain specialists in legal, marketing, IT, content, and so on, they are often unwilling to relinquish control. They don't know you as well. You didn't build this thing --- you weren't there.
+This group tends to be your _biggest_ blocker in evolving internal processes. Although they quickly identify the need for domain specialists (in legal, marketing, IT, content, and so on) they are often unwilling to relinquish control. They don't know you as well. You didn't build this thing --- you weren't there.
 
 At its worst, this can look like hiring a head of product, or a VP of marketing, only to "forget" to include them in critical business meetings. The original team has satisfied the advisory board's requirement of bringing in an expert, only to leave them out of the discussion.
 
