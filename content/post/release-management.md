@@ -80,7 +80,7 @@ Putting forth reasonable systematic improvements and shining light on cross-depa
 - "Who owns this?"
 - "This request isn't in the agreed scope for this quarter's goals, why is it considered urgent?"
 
-It's also much harder for leaders to dismiss reasonable critiques that happen in public. Making leadership explain their business decisions, especially when made in spite of expert consultation they _asked_ for, isn't rude or cruel. It's as important to them as it is to you --- after all, over 70% of startups fail.
+It's also much harder for leaders to dismiss reasonable critiques that happen in public. Making leadership explain their business decisions, especially when made in spite of expert consultation they _asked_ for, isn't rude or cruel. It's as important to them as it is to you --- after all, over 70% of startups fail. That's no secret.
 
 Initially, this public forum can be as simple as a large slack channel or during a company all-hands. Eventually it may evolve into a monthly cross-departmental meeting. Over time, the goal is to centralize the authority to launch a product outside of your standard departments while simultaneously giving those departments autonomy to execute their work using whatever tools or processes they know to be best.
 
