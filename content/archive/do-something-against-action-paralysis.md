@@ -17,8 +17,6 @@ My Geometry teacher used to say this before breaking down a troubling math probl
 
  Back then I didn't have the awareness to identify **action paralysis**. At least not in an intentional way. Or rather, a solution-oriented way. My typical response to this phenomenon was to simply step away and play video games.
 
- {{< instagram BpvFJldHQ_B hidecaption >}}
-
  Action paralysis is a common problem associated with people who over-think and over-analyze, always looking for the perfect solution. These kind of people (_my_ kind of people) create a kind of binary motivation engine within themselves:
 
   - If I can do it, I will
@@ -39,7 +37,6 @@ And in the active moment:
 - Write a feature-length screenplay
 - Author a web serial fiction series
 
-{{< instagram BOLtxtZDgih hidecaption >}}
 
 ### Escaping into the familiar isn't action
 
@@ -63,8 +60,6 @@ In the age of No Privacy and Big Data Analysis, we're often inundated with infor
 
 For the over-thinker, this is an unhealthy situation.
 
-{{< instagram Bb-oLzGDLas hidecaption >}}
-
 We don't want to go down the wrong path. The very idea feels worse than taking no path at all. Certainly it's better to wait for truth and fact to find its way to the surface.
 
 Well, no. It isn't.
@@ -72,7 +67,8 @@ Well, no. It isn't.
 The cost of waiting is your time and the constant deprivation of experience. It's not worth waiting for the perfect answer. There isn't one. **Get comfortable with making mistakes and not knowing**.
 
 - **Ask yourself**: why do you need to know anything to start?
-  ```
+
+  ```html
   Answer: you don't
   ```
 
@@ -89,5 +85,3 @@ The above statement isn't 100% true. I write professional tech industry blog pos
 This blog post is for myself. I **hate** doing things for myself. It's so much harder. And some of you probably feel the same way. Well: I've written this for you. Here is a record of someone else publicly admitting they do not know what they are doing (and choosing to do it anyway).
 
 If you find my blog interesting, then I invite you to grow with me. I intend to share a lot of different thoughts, poems, growth post-mortems, fiction, and how-tos---not from the perspective of an expert, but from the perspective of someone who is _experiencing_.
-
-{{< instagram BmRrZExggDZ hidecaption >}}

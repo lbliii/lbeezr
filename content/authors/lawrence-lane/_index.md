@@ -1,6 +1,6 @@
 ---
 title: Lawrence Lane
-bio: hello world
+bio: I'm just a nugget trying to find the right dippin sauce.
 avatar: /images/_index/author.png
 featured: true
 social:
