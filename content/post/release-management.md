@@ -85,3 +85,7 @@ It's also much harder for leaders to dismiss reasonable critiques that happen in
 Initially, this public forum can be as simple as a large slack channel or during a company all-hands. Eventually it may evolve into a monthly cross-departmental meeting. Over time, the goal is to centralize the authority to launch a product outside of your standard departments while simultaneously giving those departments autonomy to execute their work using whatever tools or processes they know to be best.
 
 > The public forum evolves into the release management layer.
+
+Now you know how to introduce release management and why the problem occurss so often. 
+
+If you are in charge of your own startup, or a significant player in one's early stage, you can manifest this infrastructure of healthy criticism and unbiased release oversight before it becomes an deeper problem.  For everyone else, expect this change to take 6+ months. Your public advocacy will infect and empower other players to chime in and slowly change the course towards a healthier startup culture with better ownership and smoother software releases.
