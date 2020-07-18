@@ -123,7 +123,7 @@ This is demonstrative, brief, clear. It's also often the name of a button in the
 
 ## Choose versatile language
 
-Where is your audience using this software? On a desktop, a tablet, a laptop, a phone? Well, on 50% of those devices, a user can't _click_ because there is no _mouse_.
+What kind of device is your audience accessing this software from? A desktop computer, a tablet, a laptop, a phone? Well, on 50% of those devices, a user can't _click_ because there is no _mouse_.
 
 Save yourself (and your team) the headache of having to revise your whole library as your business scales. Be more glocal, inclusive, or future focused from the start.
 
