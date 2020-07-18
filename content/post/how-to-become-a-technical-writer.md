@@ -131,7 +131,7 @@ Save yourself (and your team) the headache of having to revise your whole librar
 
 **Use:**  _select_, _enable_, or _choose_
 
-Apply this mindset to identify verbs and descriptors that only work for one user experience and not all.
+Apply this mindset to identify verbs and descriptors that only work for one user experience and not all---then eliminate them with more versatile alternatives. You can extend this logic even further by enforcing **Global English** generally across your content. Global English helps your business internationalize by avoiding regional phrases and by embracing inclusivity. 
 
 # 2. How & when to use screenshots
 
