@@ -5,7 +5,7 @@ date: 2019-04-22
 title: How to Become a Technical Writer Pt. 1
 hero: "/images/how-to-become-a-technical-writer/how-to-part-1.png"
 weight:
-description: Learn how to become a technical writer for startup companies and become familiar with industry-leading content tools.
+description: Learn how to break into technical writing for startups and get a job as a technical writer fast.
 ---
 
 This is a guide on how to become a technical writer (TW) in the software industry. Anyone can do it. By following this guide, I believe you could be ready to interview for a TW position within 6 months --- less, if you put in the time.
@@ -131,7 +131,7 @@ Save yourself (and your team) the headache of having to revise your whole librar
 
 **Use:**  _select_, _enable_, or _choose_
 
-Apply this mindset to identify verbs and descriptors that only work for one user experience and not all---then eliminate them with more versatile alternatives. You can extend this logic even further by enforcing **Global English** generally across your content. Global English helps your business internationalize by avoiding regional phrases and by embracing inclusivity. 
+Apply this mindset to identify verbs and descriptors that only work for one user experience and not all---then eliminate them with more versatile alternatives. You can extend this logic even further by enforcing **Global English** generally across your content. Global English helps your business internationalize by avoiding regional phrases and by embracing inclusivity.
 
 # 2. How & when to use screenshots
 
@@ -220,7 +220,7 @@ The ticket itself is just one resource. Ideally, all demos, screenshots, UI-mock
 
 1. Talk to the Product Owner about the feature. They lead this initiative and should be able to tell you a lot about it, or point you to the developer who created it.
 2. Talk to the Quality Assurance Engineer (QA) for this team. They had to test the feature, and likely know all of the setup steps. Sometimes you'll also be able to use the environment they operate in to explore the upcoming feature.
-3. Talk to the UX designer. It's very lightly that there is a Figma or Sketch mock that showcases what this feature will look like and how it's intended to function.
+3. Talk to the UX designer. It's very likely that there is a [Figma](https://www.figma.com/) or [Sketch](https://www.sketch.com/) mock that showcases what this feature will look like and how it's intended to function.
 4. Check internal knowledge repositories. Some organizations draft technical specs and project overviews that may not be attached to tickets, but offer a rough draft of everything you need to get your documents started.
 
 
