@@ -16,7 +16,6 @@ Hugo is just one of many site generators that can be used. You're welcome to try
 
 - Download a text/source-code editor. I recommend [Atom](https://atom.io/)
 - Install the Markdown-Writer package for Atom & load its keybindings
-- Create a [GitHub](https://github.com/) account
 
 # Set Up Hugo
 
@@ -247,6 +246,21 @@ As long as your terminal window is active, any new files or changes saved in ato
 
 - Try a hard page refresh (cmd + shift + r)
 - In the terminal window serving your site, execute the stop command (Ctrl + C) and restart it (hugo server)
+
+
+## Summary
+
+You now know how to do the following:
+
+- Install Hugo on your local machine
+- Use the terminal to execute Hugo CLI commands
+- Use the terminal to navigate into your project folder
+- Import a Hugo theme
+- Define your configuration file
+- Create content
+- Preview your site locally
+
+In the next article, we'll explore how to push this Hugo project into a [GitHub](https://github.com/) account, manage changes, and finally use a deployment service to publish your site online.
 
 ---
 
