@@ -103,6 +103,147 @@ Almost every Hugo theme comes with the demo site nested in its contents. This en
 6. Navigate to your _project's_ **config** file. This is typically the last file at the bottom. It is not nested in any other folder.
 7. Paste the content and save.
 
+The structure of a config file can vary widely depending on two things: whether it's a `toml` or `yaml` file, and what features the theme has that need to be explicitly defined.
+
+Here's the `yaml` config file for this site you're reading:
+
+```yaml
+baseURL: "https://lbeezr.com"
+languageCode: "en-us"
+title: "LBEEZR"
+pygmentsstyle: 'monokai'
+paginate: 6
+social:
+  github: "https://github.com/lbliii/"
+  instagram: "https://www.instagram.com/lbeezr/"
+  linkedin: "https://www.linkedin.com/in/mrlawrencelane/"
+taxonomies:
+  author: authors
+    - Lawrence Lane
+theme: "hugo-theme-novela"
+
+```  
+
+The novela theme I'm includes social media links, an author bio feature, and pagination for blog posts. You can see those defined here.
+
+### Modify to Your Needs
+
+1. Change the **`baseURL`** to your domain.
+2. Change the **`title`** to the name of your website.
+3. Change **`paginate`** rules if necessary.
+4. Change the **`social`** links. Add/remove more (tiktok, etc) if supported by the theme.
+5. Change the listed authors.
+
+For this particular theme, **`author`** is a more complicated feature. It checks the filenames located in /content/authors/ against the author listed. That file contains additional information about the author, such as a bio and picture.
+
+Here's what an author bio file might look like:
+
+```yaml
+---
+title: Lawrence Lane
+bio: I'm just a nugget trying to find the right dippin sauce.
+avatar: /images/_index/author.png
+featured: true
+social:
+  - title: github
+    url: https://github.com/lbliii
+  - title: instagram
+    url: https://www.instagram.com/lbeezr/
+hero: /images/_index/author.png
+---
+```
+
+Remember, each theme may have different features that need setting up. What's most important to understand is the general framework --- how to define these features in your config file and, if necessary, across other project folders.
+
+## 5. Create Content & Preview Site
+
+Hugo typically requires that your pages exist in the **`content`** folder. It's also common for many blog-style themes to further separate your blog posts in a **`posts`** folder. Again, reference the _**exampleSite**_ found in **`/themes/your-theme/exampleSite/`**. You'll quickly get an idea of what is needed and where.
+
+### Understand the Content Structure
+
+Every folder in **`content`** needs a file named **`_index.md`**. This file is the dominant or introductory page for a given set of pages. We typically call this a parent-child relationship.
+
+For example, a folder called _dogs_ might have sub-folders named _golden-retriever_, _poodle_, and _corgi_. All four of these must also have an **`_index.md`** file. They may have additional files as well, such as **`golden-retriever-adoption.md`**, **`poodle-grooming-tips.md`**, etc.
+
+You can read a more thorough and advanced breakdown of how this works in [Hugo's documentation](https://gohugo.io/content-management/organization/).
+
+### Understand Page Front Matter
+
+Similarly to how you defined configuration in the config file, you must add important information to every content file that you create. This information is called front matter. Here's the front matter for this article:
+
+```yaml
+---
+authors:
+ - Lawrence Lane
+date: 2020-07-18
+title: How to Set Up Hugo for Documentation
+hero: "/images/how-to-setup-hugo-for-documentation/set-up-hugo.png"
+weight:
+description: Learn how to setup your computer to leverage Hugo as part of a docs-as-code toolchain.
+---
+```
+The kind of details needed in the front matter depend on your theme and features. Reference content files found in your theme's **_exampleSite_** to get an idea of what's required.  
+
+**Note**: the three dashes before and after your front matter _are_ requried; they tell hugo to expect front matter.
+
+
+### Add Your First Pages
+
+1. Open your project in Atom.
+2. Navigate to the **`content`** folder.
+3. Create a new file.
+4. Name the file **`_index.md`**.
+5. Add front matter.
+6. Write the body of your article using [Markdown syntax](https://www.markdownguide.org/cheat-sheet/).
+7. Save.
+8. Repeat for other pages if desired.
+
+### Serve Your Site Locally
+
+1. Open the terminal.
+2. Navigate to your project folder.
+3. Run the following command:
+```shell
+hugo server
+```
+
+If successful, you should get a printout that looks similar to this:
+
+```h
+lblane@MacBook-Pro emdash % hugo server
+
+                   | EN  
+-------------------+-----
+  Pages            | 14  
+  Paginator pages  |  0  
+  Non-page files   |  0  
+  Static files     |  4  
+  Processed images |  0  
+  Aliases          |  0  
+  Sitemaps         |  1  
+  Cleaned          |  0  
+
+Built in 44 ms
+Watching for changes in /Users/lblane/Documents/GitHub/emdash/{archetypes,content,themes}
+Watching for config changes in /Users/lblane/Documents/GitHub/emdash/config.toml
+Environment: "development"
+Serving pages from memory
+Running in Fast Render Mode. For full rebuilds on change: hugo server --disableFastRender
+Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
+Press Ctrl+C to stop
+```
+
+## Preview Your Site
+
+4. Open a web browser.
+5. Navigate to the URL provided in the printout; typically `http://localhost:1313/`.
+
+As long as your terminal window is active, any new files or changes saved in atom should update automatically in your localhost preview. If they do not update as expected, I recommend two things:
+
+- Try a hard page refresh (cmd + shift + r)
+- In the terminal window serving your site, execute the stop command (Ctrl + C) and restart it (hugo server)
+
+---
 
 # Terminal Tips
 
