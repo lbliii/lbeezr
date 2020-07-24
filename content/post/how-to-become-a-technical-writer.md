@@ -31,6 +31,7 @@ You do not need any particular degree to obtain the skills needed or to build a 
 Take me for example. I have a BFA in Creative Writing, with a minor in English. My technical skills came from playing World of Warcraft and editing skins for online writing communities (translation: limited HTML/CSS knowledge).
 
 ---
+
 # Part One: Knowledge Building
 
 Your goal as a technical writer is to become a user advocate. You accomplish this in several ways:
@@ -41,6 +42,8 @@ Your goal as a technical writer is to become a user advocate. You accomplish thi
 - Advocate for usability and clarity during the product's build phase
 
 Everything discussed beyond this point supports our main objective in one of those ways.
+
+---
 
 # 1.  How to Write for Technical Products
 
@@ -133,6 +136,8 @@ Save yourself (and your team) the headache of having to revise your whole librar
 
 Apply this mindset to identify verbs and descriptors that only work for one user experience and not all---then eliminate them with more versatile alternatives. You can extend this logic even further by enforcing **Global English** generally across your content. Global English helps your business internationalize by avoiding regional phrases and by embracing inclusivity.
 
+---
+
 # 2. How & when to use screenshots
 
 
@@ -153,6 +158,8 @@ Make sure your screenshots are consistent and convey the information they need t
 
 - **Standardize width**: I tend to use full-width screenshots so no measuring or resizing is needed. It's distracting for a user to see varying image sizes when scrolling through a page.
 - **Minimize multi-navigation overlay**: Although sometimes unavoidable, doing this when possible maximizes the enduring relevance of your screenshot. Don't create more work for yourself later.
+
+---
 
 # 3. How to approach writing tools
 
@@ -192,6 +199,8 @@ This is the solution I've moved my clients towards. This setup is more stable, l
 
 You'll see how these tools apply in the next section.
 
+---
+
 # 4. How to understand your peers & the workflow
 
 Technical writers are not developers. They should, however, understand developers. We work together toward the same goal. Here's the high-level:
@@ -223,6 +232,7 @@ The ticket itself is just one resource. Ideally, all demos, screenshots, UI-mock
 3. Talk to the UX designer. It's very likely that there is a [Figma](https://www.figma.com/) or [Sketch](https://www.sketch.com/) mock that showcases what this feature will look like and how it's intended to function.
 4. Check internal knowledge repositories. Some organizations draft technical specs and project overviews that may not be attached to tickets, but offer a rough draft of everything you need to get your documents started.
 
+---
 
 # Summary of Pt. 1
 

@@ -17,6 +17,8 @@ Hugo is just one of many site generators that can be used. You're welcome to try
 - Download a text/source-code editor. I recommend [Atom](https://atom.io/)
 - Install the Markdown-Writer package for Atom & load its keybindings
 
+---
+
 # Set Up Hugo
 
 ## 1. Install Hugo
@@ -49,6 +51,8 @@ Hugo is just one of many site generators that can be used. You're welcome to try
     hugo version
     ```
 
+---
+
 ## 2. Create a New Site
 
 The following steps create a folder with your site name which includes all of the basic assets needed to get started.
@@ -62,6 +66,8 @@ hugo new site [sitename]
 ```
 
 Unsure of how to navigate across folders in the terminal? Jump to the [Terminal Tips](#terminal-tips) section.
+
+---
 
 ## 3. Import a Theme
 
@@ -85,6 +91,8 @@ git submodule update --init --recursive
 ```
 
 This pulls the theme's information into your project for you to use and adds it to a `.gitmodule` file which directs your site to its resources when building.
+
+---
 
 ## 4. Update Configuration
 
@@ -154,6 +162,8 @@ hero: /images/_index/author.png
 
 Remember, each theme may have different features that need setting up. What's most important to understand is the general framework --- how to define these features in your config file and, if necessary, across other project folders.
 
+---
+
 ## 5. Create Content
 
 Hugo typically requires that your pages exist in the **`content`** folder. It's also common for many blog-style themes to further separate your blog posts in a **`posts`** folder. Again, reference the _**exampleSite**_ found in **`/themes/your-theme/exampleSite/`**. You'll quickly get an idea of what is needed and where.
@@ -197,6 +207,7 @@ The kind of details needed in the front matter depend on your theme and features
 7. Save.
 8. Repeat for other pages if desired.
 
+---
 
 ## 6. Preview Your Site
 
@@ -247,6 +258,7 @@ As long as your terminal window is active, any new files or changes saved in ato
 - Try a hard page refresh (cmd + shift + r)
 - In the terminal window serving your site, execute the stop command (Ctrl + C) and restart it (hugo server)
 
+---
 
 ## Summary
 
