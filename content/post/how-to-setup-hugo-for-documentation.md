@@ -155,7 +155,7 @@ hero: /images/_index/author.png
 
 Remember, each theme may have different features that need setting up. What's most important to understand is the general framework --- how to define these features in your config file and, if necessary, across other project folders.
 
-## 5. Create Content & Preview Site
+## 5. Create Content
 
 Hugo typically requires that your pages exist in the **`content`** folder. It's also common for many blog-style themes to further separate your blog posts in a **`posts`** folder. Again, reference the _**exampleSite**_ found in **`/themes/your-theme/exampleSite/`**. You'll quickly get an idea of what is needed and where.
 
@@ -198,6 +198,11 @@ The kind of details needed in the front matter depend on your theme and features
 7. Save.
 8. Repeat for other pages if desired.
 
+
+## 6. Preview Your Site
+
+After you've configured your project and added some content, it's time to finally take a look and see what you've made. From this point on, you can always preview changes that you make using the steps below. Doing so provides you a fully-functional site that mimics how it will behave once launched publicly on a domain.
+
 ### Serve Your Site Locally
 
 1. Open the terminal.
@@ -233,10 +238,10 @@ Web Server is available at http://localhost:1313/ (bind address 127.0.0.1)
 Press Ctrl+C to stop
 ```
 
-## Preview Your Site
+### View Your Site Locally
 
-4. Open a web browser.
-5. Navigate to the URL provided in the printout; typically `http://localhost:1313/`.
+1. Open a web browser.
+2. Navigate to the URL provided in the printout; typically `http://localhost:1313/`.
 
 As long as your terminal window is active, any new files or changes saved in atom should update automatically in your localhost preview. If they do not update as expected, I recommend two things:
 
