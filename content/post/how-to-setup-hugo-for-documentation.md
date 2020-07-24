@@ -8,14 +8,15 @@ weight:
 description: Learn how to setup your computer to leverage Hugo as part of a docs-as-code toolchain.
 ---
 
-This article walks you through how to quickly get set up with [Hugo](http://gohugo.io/), a static site generator, to publish technical documentation in [Markdown](https://www.markdownguide.org/).
+This article walks you through how to quickly get set up with [Hugo](http://gohugo.io/), a static site generator, to publish technical documentation in [Markdown](https://www.markdownguide.org/). This documentation toolchain works for organizations on any level, from open-source communities to enterprise-level tech giants.
 
 Hugo is just one of many site generators that can be used. You're welcome to try others, such as [Jekyll](https://jekyllrb.com/), [Docusaurus](https://v2.docusaurus.io/), or [Gatsby](https://www.gatsbyjs.org/)---but Hugo is my personal favorite.
 
 # Prerequisites
 
-- Download a text/source-code editor. I recommend [Atom](https://atom.io/).
-- Create a [GitHub](https://github.com/) account (it's free).
+- Download a text/source-code editor. I recommend [Atom](https://atom.io/)
+- Install the Markdown-Writer package for Atom & load its keybindings
+- Create a [GitHub](https://github.com/) account
 
 # Set Up Hugo
 
@@ -79,12 +80,12 @@ The quickest way to get started is to import an existing [theme](https://themes.
 1. Open a terminal window.
 2. Navigate to the `themes` folder in your project: **sitename** > **themes**.
 3. Run the following:
-
 ```shell
 git clone <your theme url>
+git submodule update --init --recursive
 ```
 
-This pulls the theme's information into your project for you to use.
+This pulls the theme's information into your project for you to use and adds it to a `.gitmodule` file which directs your site to its resources when building.
 
 ## 4. Update Configuration
 
@@ -97,7 +98,6 @@ Almost every Hugo theme comes with the demo site nested in its contents. This en
 1. Open your project in your text/source-code editor.
 2. Expand the **themes** folder. Select the theme you installed.
 3. Expand the **exampleSite** folder.
-![examplesite](/images/how-to-setup-hugo-for-documentation/examplesite.png)
 4. Open the **config** file.
 5. Copy everything.
 6. Navigate to your _project's_ **config** file. This is typically the last file at the bottom. It is not nested in any other folder.
